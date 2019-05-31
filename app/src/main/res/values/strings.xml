@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyPass</string>
+    <string name="passwordPlaceholder">00000000</string>
+    <string name="passwordDescription">Today\'s password</string>
+    <string name="toast_password_on_copy">Copied to clipboard!</string>
+    <string name="btn_copy_password_description">Click to copy the password</string>
+</resources>
